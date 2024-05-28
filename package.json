@@ -31,7 +31,7 @@
     "react-scripts": "5.0.1",
     "redux": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
-    "redux-thunk": "^3.1.0",
+    "redux-thunk": "^2.4.2",
     "sass": "^1.77.2",
     "scss": "^0.2.4",
     "sort-by": "^1.2.0",
